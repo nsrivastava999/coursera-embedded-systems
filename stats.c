@@ -1,5 +1,5 @@
 /******************************************************************************
- * Copyright (C) 2019 by Subhabrata Ghosh - Vellore Institute of Technology
+ * Copyright (C) 2019 by Nihar Sanjeev Kumar Srivastava - Vellore Institute of Technology
  *
  * Redistribution, modification or use of this software in source or binary
  * forms is permitted as long as the files maintain this copyright. Users are 
@@ -16,7 +16,7 @@
  * mean, and median of the data set. In addition, it reorders this data set 
  * from large to small. All statistics are rounded down to the nearest integer.
  *
- * @author Subhabrata Ghosh
+ * @author Nihar Sanjeev Kumar Srivastava
  * @date 11-10-2019
  * 
  */
