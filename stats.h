@@ -1,5 +1,5 @@
 /******************************************************************************
- * Copyright (C) 2019 by Subhabrata Ghosh - Vellore Institute of Technology
+ * Copyright (C) 2019 by Nihar Sanjeev Kumar Srivastava - Vellore Institute of Technology
  *
  * Redistribution, modification or use of this software in source or binary
  * forms is permitted as long as the files maintain this copyright. Users are 
@@ -13,8 +13,8 @@
  *
  * Header file containing definitions of the functions used in stats.c
  *
- * @author Subhabrata Ghosh
- * @date 11-10-2019
+ * @author Nihar Sanjeev Kumar Srivastava
+ * @date 12-10-2019
  *
  */
 #ifndef __STATS_H__
